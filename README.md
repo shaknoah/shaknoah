@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohd Shakir
-- 👀 I’m interested in Development and Probelm Solving
-- 🌱 I’m currently learning Reverse Engineering
+- 👀 I’m interested in Probelm Solving
 - 📫 How to reach me : mohdshakir02003@gmail.com
 
 <!---
